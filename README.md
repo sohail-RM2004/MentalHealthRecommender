@@ -1,2 +1,2 @@
 # MentalHealthRecommender
-Mental Health Wellness Chatbot Recommender
+Mental Health Wellness Chatbot Recommender System
